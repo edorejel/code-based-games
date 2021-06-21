@@ -9,12 +9,14 @@ Thinking up a DLC that falls within the creative spectrum created by GTAOnline.
 ## Alternative titles: 
 1. GTAOnline Shangh-Ainime DLC, codename: Gun-Kata
 2. GTAOnline Sun Dragons DLC, password: Gun-Fu (I like this title.)
+3. GTAOnline Gun-Kata DLC, (This title is not so subtle, but it gets right to the point, the point is you'll be doing some crazy martial arts stuff with guns.)
 
 
 ## Inspiration taken from:
 1. SNAKE EYES Official Trailer 2 (2021) G.I. JOE Origins Movie HD https://www.youtube.com/watch?v=ukLCbIse4es
 2. Mortal Kombat (2021) - Official Red Band Trailer https://www.youtube.com/watch?v=NYH2sLid0Zc
 3. Mortal Kombat - Official Opening Scene (2021) Hiroyuki Sanada https://www.youtube.com/watch?v=aJCvrUlf3tM
+4. Equilibrium (Gun Kata Scene) HD - Christian Bale https://www.youtube.com/watch?v=LfklP_tyagQ
 
 ![gtaonline gun kata dlc](https://github.com/xpqx/code-based-games/blob/main/GTAOnline/GTAOnline_Shanghai_Times_DLC/images/gun_kata_image_1.jpg)
 
