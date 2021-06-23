@@ -1,4 +1,4 @@
-# GTAOnline Fire Tomahawk DLC
+# GTAOnline Burning Tomahawk DLC
 
 ## Codename: The Warrior Path
 
