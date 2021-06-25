@@ -1,4 +1,4 @@
-# GTAOnline Horror-type DLC
+# GTAOnline Horror DLC
 
 
 Inspiration from movie 'Midnight Meat Train' for a possible GTAOnline DLC.
