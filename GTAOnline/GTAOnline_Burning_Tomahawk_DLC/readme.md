@@ -17,6 +17,9 @@ Alternative Titles
 ![gtao bt dlc](https://github.com/xpqx/code-based-games/blob/main/GTAOnline/GTAOnline_Burning_Tomahawk_DLC/files/gtao_bt_image_6.jpg?raw=true)
 
 
+![gtap bt dlc](https://github.com/xpqx/code-based-games/blob/main/GTAOnline/GTAOnline_Burning_Tomahawk_DLC/files/gtao_bt_image_7.jpg)
+
+
 ![gtao bt dlc](https://github.com/xpqx/code-based-games/blob/main/GTAOnline/GTAOnline_Burning_Tomahawk_DLC/files/gtao_bt_image_2.jpg?raw=true)
 
 
