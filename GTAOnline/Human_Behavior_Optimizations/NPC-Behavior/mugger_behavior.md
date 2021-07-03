@@ -20,3 +20,6 @@ should also "steal" the following items:
 - - ammo
 - The mugger will "shank" the players after performing the above actions.
 - This will hopefully lead to an increase in NPC-mugger interactions between players.
+
+## Mutli-Environment Mugging Enabled
+- The mugger should be able to mug a player in any type of environment such as land, sea, or air.
