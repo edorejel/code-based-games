@@ -6,15 +6,6 @@ Some of these missiles should be very pricey in the game because they are very p
 
 Inspiration for some of these missiles taken from various sources. 
 
-#### "the pickler" (i love this thing!)
-
-- --------------------------------------------------------------------------------------------------
-> "the pickler" sounds better than "r9x", "r9x" sounds like some experimental flu shot
-- ---------------------------------------------------------------------------------------------------
-
-- r9x https://www.wsj.com/articles/secret-u-s-missile-aims-to-kill-only-terrorists-not-nearby-civilians-11557403411
-- the video game equivalent could be a __flying blender__ equipped with homing ability, there are other equivalents, but
-getting hit with a __flying blender__ is funnier, we can call it "La Liquadora Voladora."
 
 
 
@@ -36,55 +27,20 @@ getting hit with a __flying blender__ is funnier, we can call it "La Liquadora V
 
 
 
-#### flash bang missiles
-- homing enabled
-- when these missiles hit your aircraft, or vehicle, the player is momentarily blinded by the brightness of the missiles. The blindness effect would have to be created.
-
-#### anvil missiles
-- homing enabled
-- when these missiles hit your aircraft or flying vehicle, they change the physics of the target, and make the target travel straight down regardless of the position the target was previously located in, this effect should wear off eventually
 
 
 
 
-#### kinetic missiles
-- homing enabled
-- if you get hit with a kinetic missile, the missile's kinetic energy is transferred to you upon impact
-- kinetic missiles shall not destroy a target on the first strike, but after several strikes, the target should be susceptible
-to exploding or dying (if it is the player)
-- https://en.wikipedia.org/wiki/Kinetic_energy
-
-#### reverse thruster missiles
-
-- homing enabled
-- these missiles shall possess the ability to fire in reverse upon impact
-- upon impact, these missiles shall not explode or destroy the target
-- upon impact, these missiles shall get attached to the target
-- upon being attached to the target, these missiles shall ignite a thruster, and launch into the air while the
-target is still attached
-- the thruster that is igniting is a reverse thruster
-- upon the reverse thruster igniting and launching into the air, the missile shall follow any random trajectory 
-- these missiles shall have the homing ability of the Ruiner 2000 missiles
 
 
 
 
-#### spider missiles
 
-- homing enabled
-- non-lethal
-- missiles filled with a sticky "top secret" substance
-- substance expands upon violent impact in an oxygenated environment
-- the violent impact is provided by the impact with target
-- the oxygenated environment is provided by Earth
-- can stop cars dead on their tracks with the cohesive and expanding properties in the substance
-- substance is non-responsive when not handled in a violent manner
-- technology in the substance is "top secret" reactive technology
-- can weigh down vehicles so overall maneuvarbility of vehicle is affected
-- substance disssolves after a few minutes (in-game minutes)
-- can weigh down the player
-- player can be targeted with this weapon
-- 3 shots per weapon
+
+
+
+
+
 
 
 #### extended range missiles
@@ -95,27 +51,8 @@ target is still attached
 - these missiles can pursue a target for a greater distance when the homing variant is fired at a target
 - these missiles shall have the homing ability of the Ruinder 2000 missiles
 
-#### anti-gravity missiles
 
-- __disclaimer:__ there is no gravity in GTAOnline, but the game is a real-life simulation, so the force of gravity as well as
-other scientific forces in nature are assumed to exists
-- homing enabled
-- if you get hit with these, your gravity (in the game) is affected
-- if you are grounded, AND you are hit with an anti-gravity missile, the target just flies straight into the air
-- if you are in the air, AND you are hit with an anti-gravity missile, the target just flies straight down into the ground
-- the effects of the anti-gravity missiles shall last a few seconds of in-game time, then the target's gravity will return to normal in-game gravity
-- these missiles shall have the homing ability of the Ruiner 2000 missiles
 
-#### magnetic missile
-- missile shoots a magnetic force
-- once magnetic force hits target, magnetic force is transfered to target
-- target becomes a magnet for a brief period of time
-- the attractant force of a magnet can be shot via missile
-- the repellent force of a magnet can be shot via missile
-
-#### missile cluster bomb
-- shoot a missile at a target, missile explodes before hitting target
-- upon exploding, cluster bombs are released over a radius
 
 
 
