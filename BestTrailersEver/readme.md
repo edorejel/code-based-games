@@ -16,7 +16,6 @@
 
 #### Call of Duty: Know Your History "The Russian Collusion Hoax"
 
-> You absolutely love to see it, good trailer, might have to switch over since GTAOnline abandoned their PoliceDLC over bullshit mainstream media induced political causes
 
 - Know Your History | Official Call of Duty®: Black Ops Cold War Trailer https://www.youtube.com/watch?v=zsBRGCabaog
 - Call of Duty Black Ops: Cold War - Official Teaser Trailer https://www.youtube.com/watch?v=m1kfCGjOaSw
