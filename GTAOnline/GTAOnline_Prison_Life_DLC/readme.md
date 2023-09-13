@@ -1,27 +1,31 @@
-# Experimental Prison-Life DLC Concept
+## Experimental Prison-Life DLC Concept
 
 - __My thoughts:__ After rereading some of the stuff related to this DLC, I think I might have gotten a bit too involved in my research to create game content.
 
 
-I hope a prison life or jail style dlc is in the works at Rockstar. I would prefer this type of DLC over a "Cops and Crooks" dlc.
+I hope a prison life or jail style dlc is in the works at Rockstar. I would prefer this type of DLC over a "Cops and Crooks" dlc. 
+
+__09/12/2023 Developer Notes:__ Perhaps in GTA6, we can use th prison for gameplay during "cargo sell missions", if they have those in GTA6.
+Prison life and culture is still about contraband and making money. A prison themed DLC would be interesting for the creative ways players can use, to sneak cargo and contraband into the prison, so the prisoners can sell it for cash
+inside the prison.
 
 
-#### Original Title: 
+## Original Title: 
 - GTAOnline Shot Caller Big Baller DLC 
 
-#### Second Option for Title: 
+## Second Option for Title: 
 - GTAOnline Proper Gangsters DLC 
 
 
 > Both titles seem marketable and catchy.
 
 
-#### Cars to Add
+## Cars to Add
 
 - Chrysler 300 SRT8 https://github.com/xpqx/videoGameDev/blob/master/GTAOnline/RockstarWhen/Chrysler%20300%20Srt8.md#chrysler-300-srt8
 
 
-#### status: almost done designing it
+## status: almost done designing it
 
 things to do: reread and rewrite everything so that various elements are easily converted to in-game programming concepts that
 can be used with the technology used in GTAOnline. No big thing, just thinking deeply about GTAOnline, and how 
