@@ -2,13 +2,6 @@
 
  *It's funny to me.*
 
-
-- That's right, baby! https://github.com/xpqx/code-based-games/blob/main/GTAOnline/files/thats_right_baby.jpg
-
-
-- "The GTA Experience" https://www.reddit.com/r/gtaonline/comments/kn0ivc/the_grand_theft_auto_experience/ (*It's a cool game.*)
-
-
 GTAOnline has some of the best dialogue I've ever heard. The writers did a fantastic job.
 Below are a few noteworthy examples.
 
