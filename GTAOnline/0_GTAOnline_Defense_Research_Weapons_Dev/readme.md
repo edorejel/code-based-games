@@ -4,7 +4,6 @@
 
 *  *I also use GTAOnline to practice my Computer Science fundamentals, systems analysis and reverse engineering skills. Other games can be used. I just happened to pick up a copy of GTAOnline for no reason whatsoever. Believe it or not, happenstance was involved 100% in that decision.*
    
-* No relation to Rockstar games! (*I should have written this sooner!*)
 
 
 
